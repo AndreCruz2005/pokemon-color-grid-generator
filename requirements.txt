@@ -3,5 +3,10 @@ charset-normalizer==3.4.1
 idna==3.10
 numpy==2.2.4
 pillow==11.1.0
+pyedifice==3.1.0
+PySide6_Essentials==6.9.0
+qasync==0.27.1
 requests==2.32.3
+shiboken6==6.9.0
+typing_extensions==4.13.1
 urllib3==2.3.0
